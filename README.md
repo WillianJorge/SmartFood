@@ -9,18 +9,4 @@
 - [Datatables](https://datatables.net/)
 - [Jquery](https://jquery.com/)
 
-## Instalação
 
-
-```sh
-
-git clone https://github.com/WillianJorge/libretto
-
-composer update
-
-mv .env.example .env
-
-php artisan migrate:install
-
-php artisan migrate
-```
